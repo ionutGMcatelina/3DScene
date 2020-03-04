@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  Camera.cpp
+c:\users\ionut\desktop\proiect pg copie\opengl_4_application_vs2015\camera.cpp(97): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Mesh.cpp
+c:\users\ionut\desktop\proiect pg copie\opengl_4_application_vs2015\mesh.cpp(77): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Model3D.cpp
+c:\users\ionut\desktop\proiect pg copie\opengl_4_application_vs2015\model3d.cpp(231): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  OpenGL_4_Application_VS2015.cpp
+c:\users\ionut\desktop\proiect pg copie\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(1801): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Shader.cpp
+c:\users\ionut\desktop\proiect pg copie\opengl_4_application_vs2015\shader.cpp(99): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  SkyBox.cpp
+c:\users\ionut\desktop\proiect pg copie\opengl_4_application_vs2015\skybox.cpp(142): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
